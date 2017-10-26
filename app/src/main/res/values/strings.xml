@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PreferenceSample</string>
+    <string name="show_preference">設定を開く</string>
 </resources>
