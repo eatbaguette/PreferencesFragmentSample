@@ -16,3 +16,4 @@ PreferenceFragmentCompatを使うときには、supportFragmentManagerを使う�
 # 参考URL
 https://developer.android.com/guide/topics/ui/settings.html?hl=ja
 http://java-lang-programming.com/ja/articles/63
+設定の取り出し: http://dangoya.jp/?p=234
